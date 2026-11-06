@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=550&height=50&lines=Konnichiwa%2C%20Chris%20desu%21%20%28%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%29%3BOtaku%20Programmer%20%26%20Backend%20Artisan%3BCreator%20of%20JaWa%20and%20Gowa%20Bot%20Libraries%3BTurning%20coffee%20into%20code%20with%20anime%20OSTs" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=550&height=50&lines=Hi%2C%20I%20am%20Chris%21%20%F0%9F%91%8B%3BSoftware%20Developer%20%26%20Backend%20Enthusiast%3BCreator%20of%20JaWa%20and%20Gowa%20Bot%20Libraries%3BBuilding%20high-performance%20tools%20and%20services" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-  <h3>⚡ Tech Arsenal & Ninjutsu</h3>
+  <h3>⚡ Tech Arsenal & Skills</h3>
   <img src="https://skillicons.dev/icons?i=go,java,ts,js,py,bash,docker,linux,git,postgres,redis,postman&perline=6" alt="Tech Stack" />
 </div>
 
@@ -71,7 +71,7 @@
 <br>
 
 <div align="center">
-  <h3>📊 Power Level & Stats</h3>
+  <h3>📊 GitHub Activity & Stats</h3>
   <p>
     <img src="https://streak-stats.demolab.com/?user=jochris&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </p>
