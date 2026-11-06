@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Anime Cyberpunk Banner" />
+  <img src="./assets/banner.jpg" width="100%" alt="Banner" />
 </div>
 
 <div align="center">
@@ -14,17 +14,7 @@
     <img src="https://img.shields.io/badge/GitHub-jochris-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Commits-2.5k%2B-7aa2f7?style=flat-square&logo=git&logoColor=white&labelColor=1a1b26" alt="Commits" />
-  <img src="https://img.shields.io/badge/Anime-Enthusiast-ff69b4?style=flat-square&logo=myanimelist&logoColor=white" alt="Anime" />
-  <img src="https://img.shields.io/badge/Vibe-Coding%20%26%20Lofi-7aa2f7?style=flat-square&logo=spotify&logoColor=white" alt="Vibe" />
   <img src="https://komarev.com/ghpvc/?username=jochris&style=flat-square&color=bb9af7&labelColor=1a1b26&label=Profile+Views" alt="Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <blockquote>
-    <i>"If you do not like your destiny, do not accept it. Instead, have the courage to change it the way you want it to be."</i>
-  </blockquote>
 </div>
 
 <br>
