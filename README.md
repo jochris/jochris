@@ -25,18 +25,18 @@
 
 <div align="center">
   <a href="https://github.com/jochris/JaWa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jochris&repo=JaWa&theme=tokyonight" alt="JaWa" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=JaWa&theme=tokyonight" alt="JaWa" />
   </a>
   <a href="https://github.com/jochris/Gowa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jochris&repo=Gowa&theme=tokyonight" alt="Gowa" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gowa&theme=tokyonight" alt="Gowa" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/jochris/LuneBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jochris&repo=LuneBot&theme=tokyonight" alt="LuneBot" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=LuneBot&theme=tokyonight" alt="LuneBot" />
   </a>
   <a href="https://github.com/jochris/Gorvix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jochris&repo=Gorvix&theme=tokyonight" alt="Gorvix" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gorvix&theme=tokyonight" alt="Gorvix" />
   </a>
 </div>
 
@@ -45,6 +45,6 @@
 ### GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jochris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jochris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jochris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jochris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
