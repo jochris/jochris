@@ -13,6 +13,7 @@
   <a href="https://github.com/jochris">
     <img src="https://img.shields.io/badge/GitHub-jochris-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/badge/Commits-2.5k%2B-7aa2f7?style=flat-square&logo=git&logoColor=white&labelColor=1a1b26" alt="Commits" />
   <img src="https://img.shields.io/badge/Anime-Enthusiast-ff69b4?style=flat-square&logo=myanimelist&logoColor=white" alt="Anime" />
   <img src="https://img.shields.io/badge/Vibe-Coding%20%26%20Lofi-7aa2f7?style=flat-square&logo=spotify&logoColor=white" alt="Vibe" />
   <img src="https://komarev.com/ghpvc/?username=jochris&style=flat-square&color=bb9af7&labelColor=1a1b26&label=Profile+Views" alt="Views" />
@@ -71,13 +72,17 @@
 <br>
 
 <div align="center">
-  <h3>📊 GitHub Activity & Stats</h3>
+  <h3>📊 GitHub Activity & Commit Stats</h3>
   <p>
     <img src="https://streak-stats.demolab.com/?user=jochris&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jochris&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jochris&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jochris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jochris&theme=tokyonight&utcOffset=7" alt="Commit Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jochris&theme=tokyonight" alt="Top Languages by Commit" />
   </p>
 </div>
 
