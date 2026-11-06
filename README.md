@@ -21,42 +21,29 @@
 
 <div align="center">
   <h3>⚡ Tech Arsenal & Skills</h3>
-  <img src="https://skillicons.dev/icons?i=go,java,ts,js,py,bash,docker,linux,git,postgres,redis,postman&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts,js,py,bash,docker,linux,git,postgres,redis,postman" alt="Tech Stack" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>🚀 Featured Public Projects</h3>
-</div>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/jochris/JaWa">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=JaWa&theme=tokyonight" alt="JaWa" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jochris/Gowa">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gowa&theme=tokyonight" alt="Gowa" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/jochris/LuneBot">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=LuneBot&theme=tokyonight" alt="LuneBot" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jochris/Gorvix">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gorvix&theme=tokyonight" alt="Gorvix" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://github.com/jochris/JaWa">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=JaWa&theme=tokyonight" width="48%" alt="JaWa" />
+    </a>
+    <a href="https://github.com/jochris/Gowa">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gowa&theme=tokyonight" width="48%" alt="Gowa" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/jochris/LuneBot">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=LuneBot&theme=tokyonight" width="48%" alt="LuneBot" />
+    </a>
+    <a href="https://github.com/jochris/Gorvix">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gorvix&theme=tokyonight" width="48%" alt="Gorvix" />
+    </a>
+  </p>
 </div>
 
 <br>
@@ -64,20 +51,11 @@
 <div align="center">
   <h3>📊 GitHub Activity & Commit Stats</h3>
   <p>
-    <img src="https://streak-stats.demolab.com/?user=jochris&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jochris&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=jochris&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jochris&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jochris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jochris&theme=tokyonight&utcOffset=7" width="48%" alt="Commit Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jochris&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
   </p>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jochris&theme=tokyonight&utcOffset=7" alt="Commit Productive Time" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jochris&theme=tokyonight" alt="Top Languages by Commit" />
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b26,24283b,bb9af7,7aa2f7&height=90&section=footer" width="100%" alt="Footer" />
 </div>
