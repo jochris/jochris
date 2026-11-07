@@ -41,7 +41,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=LuneBot&theme=tokyonight" width="48%" alt="LuneBot" />
     </a>
     <a href="https://github.com/jochris/Gorvix">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gorvix&theme=tokyonight" width="48%" alt="Gorvix" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gorvix&theme=tokyonight&cache_seconds=1800" width="48%" alt="Gorvix" />
     </a>
   </p>
 </div>
