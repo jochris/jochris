@@ -52,7 +52,7 @@
   <h3>📊 GitHub Activity & Commit Stats</h3>
   <p>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jochris&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=jochris&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=jochris&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Streak Stats" />
   </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jochris&theme=tokyonight&utcOffset=7" width="48%" alt="Commit Productive Time" />
