@@ -30,18 +30,18 @@
   <h3>🚀 Featured Public Projects</h3>
   <p>
     <a href="https://github.com/jochris/JaWa">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=JaWa&theme=tokyonight" width="48%" alt="JaWa" />
+      <img src="./assets/pin-JaWa.svg" width="48%" alt="JaWa" />
     </a>
     <a href="https://github.com/jochris/Gowa">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gowa&theme=tokyonight" width="48%" alt="Gowa" />
+      <img src="./assets/pin-Gowa.svg" width="48%" alt="Gowa" />
     </a>
   </p>
   <p>
     <a href="https://github.com/jochris/LuneBot">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=LuneBot&theme=tokyonight" width="48%" alt="LuneBot" />
+      <img src="./assets/pin-LuneBot.svg" width="48%" alt="LuneBot" />
     </a>
     <a href="https://github.com/jochris/Gorvix">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jochris&repo=Gorvix&theme=tokyonight&cache_seconds=1800" width="48%" alt="Gorvix" />
+      <img src="./assets/pin-Gorvix.svg" width="48%" alt="Gorvix" />
     </a>
   </p>
 </div>
@@ -51,7 +51,7 @@
 <div align="center">
   <h3>📊 GitHub Activity & Commit Stats</h3>
   <p>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jochris&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+    <img src="./assets/stats.svg" width="48%" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com/?user=jochris&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Streak Stats" />
   </p>
   <p>
